@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA PA" tvg-logo="http://3.bp.blogspot.com/-qfKzrkmPnFo/XxLot0Cf8LI/AAAAAAAAGoQ/f4-TQf4RNskA_Uc79CCcrVh4LBEbTmxgACK4BGAYYCw/s1600/CULTURA.png" group-title="CANAIS: ABERTOS ✨",CULTURA PA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/21022.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI" tvg-logo="http://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="CANAIS: ABERTOS ✨",CANAL DO BOI
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/89852.ts
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS: ABERTOS ✨",TV RA TIM BUM
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9193.ts
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FHD" tvg-logo="http://4.bp.blogspot.com/-b8D2NrA1s2c/XuaMBfQ2_DI/AAAAAAAAGTo/0RWS41wGtLUS_PQON9oJkv55C7h5SEHtwCK4BGAYYCw/s1600/TV%2BBRASIL.png" group-title="CANAIS: ABERTOS ✨",TV BRASIL FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/43030.ts
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL" tvg-logo="http://4.bp.blogspot.com/-b8D2NrA1s2c/XuaMBfQ2_DI/AAAAAAAAGTo/0RWS41wGtLUS_PQON9oJkv55C7h5SEHtwCK4BGAYYCw/s1600/TV%2BBRASIL.png" group-title="CANAIS: ABERTOS ✨",TV BRASIL
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/33013.ts
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA" tvg-logo="http://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS: ABERTOS ✨",TV GAZETA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/67852.ts
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO HD" tvg-logo="http://vignette.wikia.nocookie.net/tvpediabrasil/images/d/db/Tvsenado.jpg/revision/latest/scale-to-width-down/340?cb=20160604222123&path-prefix=pt-br" group-title="CANAIS: ABERTOS ✨",TV SENADO HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/69027.ts
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIÁRIO HD" tvg-logo="http://1.bp.blogspot.com/-RGr0_SiSzdI/YBxY80ZGhOI/AAAAAAAAJzk/JsdvNJY2kfcGvnNXF6zLKfNOAl-NYO8GQCLcBGAsYHQ/s0/TV%2BDIARIO.png" group-title="CANAIS: ABERTOS ✨",TV DIÁRIO HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/69243.ts
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CÂMARA" tvg-logo="http://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="CANAIS: ABERTOS ✨",TV CÂMARA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/69905.ts
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA" tvg-logo="http://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="CANAIS: ABERTOS ✨",TV JUSTIÇA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/69907.ts

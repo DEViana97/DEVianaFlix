@@ -1,0 +1,54 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD H.265" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SP FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/82755.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SP FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9068.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SP HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/12888.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD ¹" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SP HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/38065.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD HD ¹" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/35842.ts
+#EXTINF:-1 tvg-id="record.tv.goias.br" tvg-name="RECORD GOIAS" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD GOIAS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/106096.ts
+#EXTINF:-1 tvg-id="record.tv.goias.br" tvg-name="RECORD GOIAS HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD GOIAS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/106097.ts
+#EXTINF:-1 tvg-id="record.tv.minas.br" tvg-name="RECORD MINAS" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD MINAS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9055.ts
+#EXTINF:-1 tvg-id="record.tv.minas.br" tvg-name="RECORD MINAS HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD MINAS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9054.ts
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD RJ
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/106095.ts
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ FHD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD RJ FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/71697.ts
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD RJ HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9063.ts
+#EXTINF:-1 tvg-id="record.tv.belem.br" tvg-name="RECORD BELEM" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD BELEM
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/241952.ts
+#EXTINF:-1 tvg-id="record.tv.bahia.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD BAHIA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291650.ts
+#EXTINF:-1 tvg-id="record.tv.bahia.br" tvg-name="RECORD BAHIA ¹" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD BAHIA ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291649.ts
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD BRASILIA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/12988.ts
+#EXTINF:-1 tvg-id="record.news.sc.br" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SANTA CATARINA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/241179.ts
+#EXTINF:-1 tvg-id="record.news.sc.br" tvg-name="RECORD NSC SANTA CATARINA HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD NSC SANTA CATARINA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291659.ts
+#EXTINF:-1 tvg-id="record.tv.cabralia.br" tvg-name="RECORD SANTA CATARINA HD¹" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SANTA CATARINA HD¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291660.ts
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS FHD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD RS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/160052.ts
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD RS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9065.ts
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS HD ¹" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD RS HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/160053.ts
+#EXTINF:-1 tvg-id="tv.tropical.hd.record.br" tvg-name="RECORD TROPICAL FHD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD TROPICAL FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/225833.ts
+#EXTINF:-1 tvg-id="record.tv.cascavel.br" tvg-name="RECORD TV PARANA HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD TV PARANA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/93892.ts
+#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD SERGIPE - ATALAIA HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD SERGIPE - ATALAIA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291656.ts
+#EXTINF:-1 tvg-id="record.tv.minas.br" tvg-name="RECORD TV MINAS HD" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD ✨",RECORD TV MINAS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/291658.ts

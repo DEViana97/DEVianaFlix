@@ -1,0 +1,28 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9082.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD ¹" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT FHD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81580.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD ²" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT FHD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81610.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/26722.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9084.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD ¹" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30120.ts
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT RJ FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131563.ts
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT RJ HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/35844.ts
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT JANGADEIRO FHD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT JANGADEIRO FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/595274.ts
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT PIAUI HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT PIAUI HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131432.ts
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT ARATU BAHIA HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT ARATU BAHIA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/108770.ts
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT RS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/91907.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT ✨",SBT PARANA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/88432.ts

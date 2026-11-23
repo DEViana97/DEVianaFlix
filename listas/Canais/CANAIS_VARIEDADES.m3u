@@ -1,0 +1,56 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="modo.viagem.br" tvg-name="MODO VIAGEM FHD" tvg-logo="http://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS: VARIEDADES ✨",MODO VIAGEM FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8883.ts
+#EXTINF:-1 tvg-id="modo.viagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="http://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS: VARIEDADES ✨",MODO VIAGEM HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/92649.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD H.265" tvg-logo="http://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="CANAIS: VARIEDADES ✨",BIS FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107985.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="http://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="CANAIS: VARIEDADES ✨",BIS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13502.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="http://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="CANAIS: VARIEDADES ✨",BIS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8680.ts
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="CANAIS: VARIEDADES ✨",BIS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8681.ts
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA" tvg-logo="http://topxz.live/logos/VARIEDADES/CURTA.png" group-title="CANAIS: VARIEDADES ✨",CURTA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/12948.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="http://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="CANAIS: VARIEDADES ✨",E! FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8782.ts
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="CANAIS: VARIEDADES ✨",E! HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8783.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="http://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png" group-title="CANAIS: VARIEDADES ✨",FISH TV FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8807.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png" group-title="CANAIS: VARIEDADES ✨",FISH TV HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8808.ts
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWOORK" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES ✨",FOOD NETWOORK
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13522.ts
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES ✨",FOOD NETWORK FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8811.ts
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES ✨",FOOD NETWORK HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8810.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H.265" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES ✨",GNT FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107984.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES ✨",GNT
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13527.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES ✨",GNT FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8891.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES ✨",GNT HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8890.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD ¹" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES ✨",GNT HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/66901.ts
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD ²" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES ✨",GNT HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/66902.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png" group-title="CANAIS: VARIEDADES ✨",OFF
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8996.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png" group-title="CANAIS: VARIEDADES ✨",OFF FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8997.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png" group-title="CANAIS: VARIEDADES ✨",OFF HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8998.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="http://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="CANAIS: VARIEDADES ✨",LIFETIME FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8943.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="CANAIS: VARIEDADES ✨",LIFETIME HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8944.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME" tvg-logo="http://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="CANAIS: VARIEDADES ✨",LIFETIME
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13538.ts
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY FHD" tvg-logo="http://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: VARIEDADES ✨",NOVELAS GLOBOPLAY FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9215.ts

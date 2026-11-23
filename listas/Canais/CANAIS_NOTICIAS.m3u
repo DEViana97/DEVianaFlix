@@ -1,0 +1,50 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS ✨",BAND NEWS FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81596.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS ✨",BAND NEWS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/108367.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS ✨",BAND NEWS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/11769.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD ²" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS ✨",BAND NEWS HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30171.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT NEWS FHD H.265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan6WSx6viELo6T7awPofzBEGnINF_DOUcUQ&s" group-title="CANAIS: NOTÍCIAS ✨",SBT NEWS FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/1129618.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT NEWS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan6WSx6viELo6T7awPofzBEGnINF_DOUcUQ&s" group-title="CANAIS: NOTÍCIAS ✨",SBT NEWS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/1129619.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD H.265" tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="CANAIS: NOTÍCIAS ✨",CNN BRASIL FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81597.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="CANAIS: NOTÍCIAS ✨",CNN BRASIL FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8711.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="CANAIS: NOTÍCIAS ✨",CNN BRASIL HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8712.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD ¹" tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="CANAIS: NOTÍCIAS ✨",CNN BRASIL HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30166.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD ²" tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="CANAIS: NOTÍCIAS ✨",CNN BRASIL HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30167.ts
+#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="CANAIS: NOTÍCIAS ✨",JOVEM PAN NEWS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/108191.ts
+#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="JOVEM PAN FHD ¹" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="CANAIS: NOTÍCIAS ✨",JOVEM PAN FHD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/167984.ts
+#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="CANAIS: NOTÍCIAS ✨",JOVEM PAN NEWS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107918.ts
+#EXTINF:-1 tvg-id="jovem.pan.news.br" tvg-name="JOVEM PAN HD ¹" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="CANAIS: NOTÍCIAS ✨",JOVEM PAN HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/167985.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81598.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13523.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8853.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8854.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD ¹" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30168.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD ²" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30169.ts
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS ✨",RECORD NEWS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9058.ts
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS ✨",RECORD NEWS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9057.ts
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD ¹" tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS ✨",RECORD NEWS HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30170.ts

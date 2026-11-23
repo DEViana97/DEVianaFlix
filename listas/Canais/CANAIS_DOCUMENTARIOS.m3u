@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD H.265" tvg-logo="http://topxz.live/logos/Documentarios/ANIMAL_PLANET.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",ANIMAL PLANET FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304490.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://topxz.live/logos/Documentarios/ANIMAL_PLANET.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",ANIMAL PLANET
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304493.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://topxz.live/logos/Documentarios/ANIMAL_PLANET.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",ANIMAL PLANET FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304491.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://topxz.live/logos/Documentarios/ANIMAL_PLANET.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",ANIMAL PLANET HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304492.ts
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD H.265" tvg-logo="http://topxz.live/logos/Documentarios/HISTORY.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304495.ts
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY" tvg-logo="http://topxz.live/logos/Documentarios/HISTORY.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304497.ts
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD" tvg-logo="http://topxz.live/logos/Documentarios/HISTORY.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304494.ts
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD" tvg-logo="http://topxz.live/logos/Documentarios/HISTORY.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304496.ts
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD H.265" tvg-logo="http://topxz.live/logos/Documentarios/H2.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY 2 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304499.ts
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2" tvg-logo="http://topxz.live/logos/Documentarios/H2.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY 2
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304501.ts
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD" tvg-logo="http://topxz.live/logos/Documentarios/H2.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY 2 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304498.ts
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://topxz.live/logos/Documentarios/H2.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY 2 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304500.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://topxz.live/logos/Documentarios/HGTV.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HGTV FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304506.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD H.265" tvg-logo="http://topxz.live/logos/Documentarios/HGTV.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HGTV FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304507.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://topxz.live/logos/Documentarios/HGTV.png" group-title="CANAIS: DOCUMENTÁRIOS ✨",HGTV HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/304508.ts

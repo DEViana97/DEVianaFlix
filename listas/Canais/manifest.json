@@ -1,0 +1,126 @@
+{
+  "source": "Canais.m3u8",
+  "totalItems": 520,
+  "categories": [
+    {
+      "name": "CANAIS: FILMES E SÉRIES ✨",
+      "file": "CANAIS_FILMES_E_SERIES.m3u",
+      "count": 83
+    },
+    {
+      "name": "CANAIS: DOCUMENTÁRIOS ✨",
+      "file": "CANAIS_DOCUMENTARIOS.m3u",
+      "count": 15
+    },
+    {
+      "name": "CANAIS: BAND ✨",
+      "file": "CANAIS_BAND.m3u",
+      "count": 10
+    },
+    {
+      "name": "CANAIS: ESPORTES ⚽",
+      "file": "CANAIS_ESPORTES.m3u",
+      "count": 11
+    },
+    {
+      "name": "CANAIS: NOTÍCIAS ✨",
+      "file": "CANAIS_NOTICIAS.m3u",
+      "count": 24
+    },
+    {
+      "name": "CANAIS: INFANTIS ✨",
+      "file": "CANAIS_INFANTIS.m3u",
+      "count": 27
+    },
+    {
+      "name": "CANAIS: VARIEDADES ✨",
+      "file": "CANAIS_VARIEDADES.m3u",
+      "count": 27
+    },
+    {
+      "name": "CANAIS: CINE SKY ✨",
+      "file": "CANAIS_CINE_SKY.m3u",
+      "count": 4
+    },
+    {
+      "name": "CANAIS: PPV / ESPORTES ⚽",
+      "file": "CANAIS_PPV_ESPORTES.m3u",
+      "count": 11
+    },
+    {
+      "name": "CANAIS: PARAMOUNT + LIBERTADORES ⚽",
+      "file": "CANAIS_PARAMOUNT_LIBERTADORES.m3u",
+      "count": 9
+    },
+    {
+      "name": "CANAIS: PRIME VIDEO ⚽",
+      "file": "CANAIS_PRIME_VIDEO.m3u",
+      "count": 5
+    },
+    {
+      "name": "CANAIS: ABERTOS ✨",
+      "file": "CANAIS_ABERTOS.m3u",
+      "count": 10
+    },
+    {
+      "name": "CANAIS: DISCOVERY ✨",
+      "file": "CANAIS_DISCOVERY.m3u",
+      "count": 46
+    },
+    {
+      "name": "CANAIS: ESPN ⚽",
+      "file": "CANAIS_ESPN.m3u",
+      "count": 35
+    },
+    {
+      "name": "CANAIS: RELIGIOSOS ⭐",
+      "file": "CANAIS_RELIGIOSOS.m3u",
+      "count": 11
+    },
+    {
+      "name": "CANAIS: HBO ✨",
+      "file": "CANAIS_HBO.m3u",
+      "count": 44
+    },
+    {
+      "name": "CANAIS: PREMIERE ⚽",
+      "file": "CANAIS_PREMIERE.m3u",
+      "count": 43
+    },
+    {
+      "name": "CANAIS: RECORD ✨",
+      "file": "CANAIS_RECORD.m3u",
+      "count": 26
+    },
+    {
+      "name": "CANAIS: REDETV ✨",
+      "file": "CANAIS_REDETV.m3u",
+      "count": 4
+    },
+    {
+      "name": "CANAIS: SBT ✨",
+      "file": "CANAIS_SBT.m3u",
+      "count": 13
+    },
+    {
+      "name": "CANAIS: SPORTV ⚽",
+      "file": "CANAIS_SPORTV.m3u",
+      "count": 18
+    },
+    {
+      "name": "CANAIS: TELECINE ✨",
+      "file": "CANAIS_TELECINE.m3u",
+      "count": 35
+    },
+    {
+      "name": "CANAIS: NOVELAS GLOBOPLAY ✨",
+      "file": "CANAIS_NOVELAS_GLOBOPLAY.m3u",
+      "count": 6
+    },
+    {
+      "name": "CANAIS: MÚSICA ✨",
+      "file": "CANAIS_MUSICA.m3u",
+      "count": 3
+    }
+  ]
+}

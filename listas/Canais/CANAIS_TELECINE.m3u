@@ -1,0 +1,72 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD H.265" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE ✨",TELECINE ACTION FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94375.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE ✨",TELECINE ACTION
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24533.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE ✨",TELECINE ACTION FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9126.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE ✨",TELECINE ACTION HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9127.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD ¹" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE ✨",TELECINE ACTION HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30134.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD ²" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE ✨",TELECINE ACTION HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30135.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD H.265" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE ✨",TELECINE CULT FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94376.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE ✨",TELECINE CULT
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24534.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE ✨",TELECINE CULT FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/11770.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE ✨",TELECINE CULT HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9128.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD ¹" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE ✨",TELECINE CULT HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30136.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD ²" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE ✨",TELECINE CULT HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30137.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD H.265" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE ✨",TELECINE FUN FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94377.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE ✨",TELECINE FUN
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24535.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE ✨",TELECINE FUN FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9129.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE ✨",TELECINE FUN HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9130.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD ¹" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE ✨",TELECINE FUN HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30138.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD ²" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE ✨",TELECINE FUN HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30139.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD H.265" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94378.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24536.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9131.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9132.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD ¹" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30140.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD ²" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30141.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD H.265" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="CANAIS: TELECINE ✨",TELECINE PREMIUM FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94379.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="CANAIS: TELECINE ✨",TELECINE PREMIUM
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24537.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="CANAIS: TELECINE ✨",TELECINE PREMIUM FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9133.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="CANAIS: TELECINE ✨",TELECINE PREMIUM HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9134.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD ¹" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="CANAIS: TELECINE ✨",TELECINE PREMIUM HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30142.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD H.265" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE ✨",TELECINE TOUCH FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/94380.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE ✨",TELECINE TOUCH
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/24538.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE ✨",TELECINE TOUCH FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9135.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE ✨",TELECINE TOUCH HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9136.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD ¹" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE ✨",TELECINE TOUCH HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30144.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD ²" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE ✨",TELECINE TOUCH HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30145.ts

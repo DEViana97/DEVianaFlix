@@ -1,0 +1,72 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H.265" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN ⚽",ESPN FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/598912.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN ⚽",ESPN
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/598913.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN ⚽",ESPN FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/598914.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN ⚽",ESPN HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/598916.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD ¹" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN ⚽",ESPN HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/598917.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN HD ²" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN ⚽",ESPN HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/598918.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 FHD H.265" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81587.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13519.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 HD" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8786.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131131.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 HD ¹" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30072.ts
+#EXTINF:-1 tvg-id="espn.2.br" tvg-name="ESPN 2 HD ²" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN ⚽",ESPN 2 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30071.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 FHD H.265" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81588.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13520.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 FHD" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8788.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 FHD*" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 FHD*
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131132.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 HD" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8787.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 HD ¹" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30073.ts
+#EXTINF:-1 tvg-id="espn.3.br" tvg-name="ESPN 3 HD ²" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN ⚽",ESPN 3 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30074.ts
+#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 FHD H.265" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN ⚽",ESPN 4 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81578.ts
+#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN ⚽",ESPN 4
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/21647.ts
+#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 FHD" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN ⚽",ESPN 4 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8828.ts
+#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 HD" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN ⚽",ESPN 4 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/20947.ts
+#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 HD ¹" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN ⚽",ESPN 4 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30083.ts
+#EXTINF:-1 tvg-id="espn.4.br" tvg-name="ESPN 4 HD ²" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN ⚽",ESPN 4 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30082.ts
+#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 FHD H.265" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN ⚽",ESPN 5 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81594.ts
+#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN ⚽",ESPN 5
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/20946.ts
+#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 FHD" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN ⚽",ESPN 5 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8826.ts
+#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 HD" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN ⚽",ESPN 5 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8827.ts
+#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5  HD ¹" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN ⚽",ESPN 5  HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30081.ts
+#EXTINF:-1 tvg-id="espn.5.br" tvg-name="ESPN 5 HD ²" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN ⚽",ESPN 5 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30084.ts
+#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 FHD H.265" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: ESPN ⚽",ESPN 6 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81590.ts
+#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 FHD" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: ESPN ⚽",ESPN 6 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131138.ts
+#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6  HD" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: ESPN ⚽",ESPN 6  HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8794.ts
+#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 HD ¹" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: ESPN ⚽",ESPN 6 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30077.ts

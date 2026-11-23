@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY FHD H.265" tvg-logo="https://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107983.ts
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY" tvg-logo="http://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13496.ts
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY ²" tvg-logo="http://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/43930.ts
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY FHD*" tvg-logo="http://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY FHD*
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/131428.ts
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY HD" tvg-logo="http://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9216.ts
+#EXTINF:-1 tvg-id="globoplay.novelas.br" tvg-name="NOVELAS GLOBOPLAY HD ¹" tvg-logo="http://gkpb.com.br/wp-content/uploads/2025/05/globoplay-novelas-gkpb.jpg" group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/33453.ts

@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD H.265" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="CANAIS: ESPORTES ⚽",BAND SPORTS FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81585.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="CANAIS: ESPORTES ⚽",BAND SPORTS FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8661.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="CANAIS: ESPORTES ⚽",BAND SPORTS HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8662.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD ¹" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="CANAIS: ESPORTES ⚽",BAND SPORTS HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30064.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD ³" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="CANAIS: ESPORTES ⚽",BAND SPORTS HD ³
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/26724.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE  FHD H.265" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES ⚽",COMBATE  FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81586.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES ⚽",COMBATE
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13506.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES ⚽",COMBATE FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8714.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES ⚽",COMBATE HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/8716.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD ¹" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES ⚽",COMBATE HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30066.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD ²" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES ⚽",COMBATE HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30067.ts

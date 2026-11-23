@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="CANAIS: PPV / ESPORTES ⚽",NOSSO FUTEBOL 01
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/227505.ts
+#EXTINF:-1 tvg-id="" tvg-name="GE TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iHsMMu2hsV2aR_3jsX_nHLrVngc04G4_4Q&s" group-title="CANAIS: PPV / ESPORTES ⚽",GE TV FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/1139277.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="CANAIS: PPV / ESPORTES ⚽",CAZÉ TV HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/227520.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD ¹" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="CANAIS: PPV / ESPORTES ⚽",CAZÉ TV HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/245798.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV FHD" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="CANAIS: PPV / ESPORTES ⚽",CAZE TV FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/245797.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 01" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="CANAIS: PPV / ESPORTES ⚽",CANAL GOAT 01
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/275100.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 02" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="CANAIS: PPV / ESPORTES ⚽",CANAL GOAT 02
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/289540.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOAT 03" tvg-logo="http://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/27/983030177-goat.jpg" group-title="CANAIS: PPV / ESPORTES ⚽",CANAL GOAT 03
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/289541.ts
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN FHD" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="CANAIS: PPV / ESPORTES ⚽",DAZN FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/54928.ts
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2" tvg-logo="http://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="CANAIS: PPV / ESPORTES ⚽",DAZN 2
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/21645.ts
+#EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTYNET" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1MWlui6w_OIZ-uLPu7aLFo9dI7YfEvKpzg&s" group-title="CANAIS: PPV / ESPORTES ⚽",SPORTYNET
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/1165167.ts

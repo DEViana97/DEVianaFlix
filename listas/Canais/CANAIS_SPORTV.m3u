@@ -1,0 +1,38 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H.265" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81591.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/69096.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9107.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9111.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD ¹" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30126.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD ²" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30127.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD H.265" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV ⚽",SPORTV 2 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81592.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV ⚽",SPORTV 2
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/13586.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV ⚽",SPORTV 2 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9103.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV ⚽",SPORTV 2 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9104.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ¹" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV ⚽",SPORTV 2 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30122.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ²" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV ⚽",SPORTV 2 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30123.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H.265" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" group-title="CANAIS: SPORTV ⚽",SPORTV 3 FHD H.265
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/81593.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" group-title="CANAIS: SPORTV ⚽",SPORTV 3 HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9106.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" group-title="CANAIS: SPORTV ⚽",SPORTV 3 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9105.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD ¹" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" group-title="CANAIS: SPORTV ⚽",SPORTV 3 HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30124.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD ²" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" group-title="CANAIS: SPORTV ⚽",SPORTV 3 HD ²
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/30125.ts
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SPORTV 4 FHD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV ⚽",SPORTV 4 FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/570369.ts

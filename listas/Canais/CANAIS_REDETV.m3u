@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV FHD" tvg-logo="http://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="CANAIS: REDETV ✨",REDETV FHD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9074.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV FHD ¹" tvg-logo="http://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="CANAIS: REDETV ✨",REDETV FHD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/29125.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV HD" tvg-logo="http://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="CANAIS: REDETV ✨",REDETV HD
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/9073.ts
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV HD ¹" tvg-logo="http://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="CANAIS: REDETV ✨",REDETV HD ¹
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/33455.ts
