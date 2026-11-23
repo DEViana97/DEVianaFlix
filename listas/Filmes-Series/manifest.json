@@ -1,0 +1,256 @@
+{
+  "source": "Filmes-Series.m3u8",
+  "totalItems": 316354,
+  "categories": [
+    {
+      "name": "FILMES | Lançamentos",
+      "file": "FILMES_Lancamentos.m3u",
+      "count": 1058
+    },
+    {
+      "name": "FILMES | Ação",
+      "file": "FILMES_Acao.m3u",
+      "count": 2273
+    },
+    {
+      "name": "FILMES | Animação",
+      "file": "FILMES_Animacao.m3u",
+      "count": 1125
+    },
+    {
+      "name": "FILMES | Aventura",
+      "file": "FILMES_Aventura.m3u",
+      "count": 96
+    },
+    {
+      "name": "FILMES | Comédia",
+      "file": "FILMES_Comedia.m3u",
+      "count": 2580
+    },
+    {
+      "name": "FILMES | Crime",
+      "file": "FILMES_Crime.m3u",
+      "count": 293
+    },
+    {
+      "name": "FILMES | Drama",
+      "file": "FILMES_Drama.m3u",
+      "count": 3051
+    },
+    {
+      "name": "FILMES | Fantasia",
+      "file": "FILMES_Fantasia.m3u",
+      "count": 382
+    },
+    {
+      "name": "FILMES | Faroeste",
+      "file": "FILMES_Faroeste.m3u",
+      "count": 147
+    },
+    {
+      "name": "FILMES | Ficcao",
+      "file": "FILMES_Ficcao.m3u",
+      "count": 382
+    },
+    {
+      "name": "FILMES | Guerra",
+      "file": "FILMES_Guerra.m3u",
+      "count": 125
+    },
+    {
+      "name": "FILMES | Infantis",
+      "file": "FILMES_Infantis.m3u",
+      "count": 53
+    },
+    {
+      "name": "FILMES | Nacionais",
+      "file": "FILMES_Nacionais.m3u",
+      "count": 954
+    },
+    {
+      "name": "FILMES | Natalino",
+      "file": "FILMES_Natalino.m3u",
+      "count": 192
+    },
+    {
+      "name": "FILMES | Oscar 2024",
+      "file": "FILMES_Oscar_2024.m3u",
+      "count": 6
+    },
+    {
+      "name": "FILMES | Oscar 2025",
+      "file": "FILMES_Oscar_2025.m3u",
+      "count": 22
+    },
+    {
+      "name": "FILMES | Religiosos",
+      "file": "FILMES_Religiosos.m3u",
+      "count": 98
+    },
+    {
+      "name": "FILMES | Romance",
+      "file": "FILMES_Romance.m3u",
+      "count": 616
+    },
+    {
+      "name": "FILMES | Suspense",
+      "file": "FILMES_Suspense.m3u",
+      "count": 814
+    },
+    {
+      "name": "FILMES | Terror",
+      "file": "FILMES_Terror.m3u",
+      "count": 1662
+    },
+    {
+      "name": "FILMES | Família",
+      "file": "FILMES_Familia.m3u",
+      "count": 79
+    },
+    {
+      "name": "FILMES | 4K UHD",
+      "file": "FILMES_4K_UHD.m3u",
+      "count": 1684
+    },
+    {
+      "name": "FILMES | Legendados",
+      "file": "FILMES_Legendados.m3u",
+      "count": 10422
+    },
+    {
+      "name": "FILMES | Dramas Curtos",
+      "file": "FILMES_Dramas_Curtos.m3u",
+      "count": 2075
+    },
+    {
+      "name": "Cinema",
+      "file": "Cinema.m3u",
+      "count": 14
+    },
+    {
+      "name": "SÉRIES | AMC PLUS",
+      "file": "SERIES_AMC_PLUS.m3u",
+      "count": 82
+    },
+    {
+      "name": "SÉRIES | AMAZON PRIME VIDEO",
+      "file": "SERIES_AMAZON_PRIME_VIDEO.m3u",
+      "count": 21465
+    },
+    {
+      "name": "SÉRIES | APPLE TV PLUS",
+      "file": "SERIES_APPLE_TV_PLUS.m3u",
+      "count": 6554
+    },
+    {
+      "name": "SÉRIES | BRASIL PARALELO",
+      "file": "SERIES_BRASIL_PARALELO.m3u",
+      "count": 281
+    },
+    {
+      "name": "SÉRIES | CLARO VIDEO",
+      "file": "SERIES_CLARO_VIDEO.m3u",
+      "count": 236
+    },
+    {
+      "name": "SÉRIES | CRUNCHYROLL",
+      "file": "SERIES_CRUNCHYROLL.m3u",
+      "count": 6838
+    },
+    {
+      "name": "SÉRIES | DIRECTV",
+      "file": "SERIES_DIRECTV.m3u",
+      "count": 2982
+    },
+    {
+      "name": "SÉRIES | DISCOVERY PLUS",
+      "file": "SERIES_DISCOVERY_PLUS.m3u",
+      "count": 7478
+    },
+    {
+      "name": "SÉRIES | DISNEY PLUS",
+      "file": "SERIES_DISNEY_PLUS.m3u",
+      "count": 17182
+    },
+    {
+      "name": "SÉRIES | DORAMA",
+      "file": "SERIES_DORAMA.m3u",
+      "count": 17346
+    },
+    {
+      "name": "SÉRIES | FUNIMATION NOW",
+      "file": "SERIES_FUNIMATION_NOW.m3u",
+      "count": 1044
+    },
+    {
+      "name": "SÉRIES | GLOBOPLAY",
+      "file": "SERIES_GLOBOPLAY.m3u",
+      "count": 20409
+    },
+    {
+      "name": "SÉRIES | LIONSGATE",
+      "file": "SERIES_LIONSGATE.m3u",
+      "count": 171
+    },
+    {
+      "name": "SÉRIES | MAX",
+      "file": "SERIES_MAX.m3u",
+      "count": 17611
+    },
+    {
+      "name": "SÉRIES | NETFLIX",
+      "file": "SERIES_NETFLIX.m3u",
+      "count": 32046
+    },
+    {
+      "name": "SÉRIES | NOVELAS",
+      "file": "SERIES_NOVELAS.m3u",
+      "count": 43886
+    },
+    {
+      "name": "SÉRIES | OUTRAS PRODUTORAS",
+      "file": "SERIES_OUTRAS_PRODUTORAS.m3u",
+      "count": 24938
+    },
+    {
+      "name": "SÉRIES | PARAMOUNT",
+      "file": "SERIES_PARAMOUNT.m3u",
+      "count": 9253
+    },
+    {
+      "name": "SÉRIES | PLUTOTV",
+      "file": "SERIES_PLUTOTV.m3u",
+      "count": 122
+    },
+    {
+      "name": "SÉRIES | SBT",
+      "file": "SERIES_SBT.m3u",
+      "count": 988
+    },
+    {
+      "name": "SÉRIES | STAR PLUS",
+      "file": "SERIES_STAR_PLUS.m3u",
+      "count": 4489
+    },
+    {
+      "name": "SÉRIES | TURCAS",
+      "file": "SERIES_TURCAS.m3u",
+      "count": 40691
+    },
+    {
+      "name": "SÉRIES | MEXICANAS",
+      "file": "SERIES_MEXICANAS.m3u",
+      "count": 9631
+    },
+    {
+      "name": "SÉRIES | PORTUGUESAS",
+      "file": "SERIES_PORTUGUESAS.m3u",
+      "count": 152
+    },
+    {
+      "name": "SÉRIES | INDIANAS",
+      "file": "SERIES_INDIANAS.m3u",
+      "count": 276
+    }
+  ]
+}

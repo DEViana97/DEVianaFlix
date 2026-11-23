@@ -1,0 +1,126 @@
+{
+  "source": "movies.m3u",
+  "totalItems": 20852,
+  "categories": [
+    {
+      "name": "Lancamentos",
+      "file": "Lancamentos.m3u",
+      "count": 959
+    },
+    {
+      "name": "Nacionais",
+      "file": "Nacionais.m3u",
+      "count": 1107
+    },
+    {
+      "name": "Ficcao",
+      "file": "Ficcao.m3u",
+      "count": 405
+    },
+    {
+      "name": "Drama",
+      "file": "Drama.m3u",
+      "count": 3230
+    },
+    {
+      "name": "Animacao",
+      "file": "Animacao.m3u",
+      "count": 1191
+    },
+    {
+      "name": "Acao",
+      "file": "Acao.m3u",
+      "count": 2387
+    },
+    {
+      "name": "4K",
+      "file": "4K.m3u",
+      "count": 1860
+    },
+    {
+      "name": "Suspense",
+      "file": "Suspense.m3u",
+      "count": 856
+    },
+    {
+      "name": "Comedia",
+      "file": "Comedia.m3u",
+      "count": 2740
+    },
+    {
+      "name": "Romance",
+      "file": "Romance.m3u",
+      "count": 678
+    },
+    {
+      "name": "Guerra",
+      "file": "Guerra.m3u",
+      "count": 133
+    },
+    {
+      "name": "Crime",
+      "file": "Crime.m3u",
+      "count": 318
+    },
+    {
+      "name": "Terror",
+      "file": "Terror.m3u",
+      "count": 1771
+    },
+    {
+      "name": "Religiosos",
+      "file": "Religiosos.m3u",
+      "count": 99
+    },
+    {
+      "name": "Infantis",
+      "file": "Infantis.m3u",
+      "count": 54
+    },
+    {
+      "name": "Dramas Curtos",
+      "file": "Dramas_Curtos.m3u",
+      "count": 2109
+    },
+    {
+      "name": "Faroeste",
+      "file": "Faroeste.m3u",
+      "count": 154
+    },
+    {
+      "name": "Fantasia",
+      "file": "Fantasia.m3u",
+      "count": 385
+    },
+    {
+      "name": "Reels Shorts",
+      "file": "Reels_Shorts.m3u",
+      "count": 10
+    },
+    {
+      "name": "Natalino",
+      "file": "Natalino.m3u",
+      "count": 233
+    },
+    {
+      "name": "Família",
+      "file": "Familia.m3u",
+      "count": 79
+    },
+    {
+      "name": "Oscar 2025",
+      "file": "Oscar_2025.m3u",
+      "count": 22
+    },
+    {
+      "name": "Oscar 2024",
+      "file": "Oscar_2024.m3u",
+      "count": 6
+    },
+    {
+      "name": "Aventura",
+      "file": "Aventura.m3u",
+      "count": 66
+    }
+  ]
+}
